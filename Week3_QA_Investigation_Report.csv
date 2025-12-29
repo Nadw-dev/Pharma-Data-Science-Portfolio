@@ -1,0 +1,5 @@
+Batch_ID,Assay_%,Moisture_%,Yield_%,QC_Evaluation,Risk_Level,Issue_Count
+B004,102.5,0.8,97,Assay OOS,High Risk,1
+B005,97.8,1.9,89,"Assay OOS, High Moisture, Low Yield",High Risk,3
+B007,96.9,2.2,88,"Assay OOS, High Moisture, Low Yield",High Risk,3
+B008,103.1,0.7,98,Assay OOS,High Risk,1
